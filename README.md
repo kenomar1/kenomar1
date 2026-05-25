@@ -1,4 +1,4 @@
-# Kendrick Omar
+# Omar Ahmed
 
 Full-Stack Developer building AI-integrated web applications with Next.js, React, and modern TypeScript.
 
